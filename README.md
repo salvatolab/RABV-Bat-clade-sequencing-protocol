@@ -12,7 +12,7 @@ WGS_generated_sequences.fasta - A fasta file including the 25 sequences generate
 
 N_sequences.fasta - A fasta file including the sanger N sequences from the same 25 genomes sequenced by our developed protocol.
 
-Bat_Troupin_2016.fasta - A fasta file with 122 Bat clades genomes extracted from the dataset provided by Troupin et al. 2016.
+Bat_Troupin_2016.fasta - A fasta file with 61 Bat clades genomes extracted from the dataset provided by Troupin et al. 2016.
 
 
 
