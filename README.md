@@ -14,6 +14,11 @@ N_sequences.fasta - A fasta file including the sanger N sequences from the same 
 
 Bat_Troupin_2016.fasta - A fasta file with 61 Bat clades genomes extracted from the dataset provided by Troupin et al. 2016.
 
+aln_WGS_Bat_Troupin_2016.fasta.treefile - A tree file from alignment of WGS_generated_sequences.fasta + Bat_Troupin_2016.fasta
+
+aln_WGS_N_Bat_Troupin_2016.fasta.treefile - A tree file from alignment of WGS_generated_sequences.fasta + Bat_Troupin_2016.fasta + N_sequences.fasta
+
+
 
 
 
